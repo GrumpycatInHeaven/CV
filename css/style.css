@@ -4,20 +4,18 @@
 }
 .grad-button{
   background: linear-gradient(90deg, rgba(0,255,53,1),rgba(2,250,203,1), rgba(102,9,121,1));
-  width: 200px;
+  width:240px;
   font-size: 16px;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
-  margin: 18px;
+  margin: 360px 360px auto;
   height: 62px;
   text-align:center;
   border: none;
   background-size: 300% 100%;
   text-shadow: 0 1px 0 #312c2c;
   border-radius: 50px;
-  display: inline-block;
-  
 }
 .grad-button > span{
   display: block;
